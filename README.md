@@ -1,3 +1,5 @@
+This repository may be mirrored on other Git forges. The [canonical repository](https://git.caution.co/public/demo-grpc) is hosted on git.caution.co. Please open issues and pull requests there.
+
 # gRPC on a Caution Enclave
 
 This repository is a focused integration demo for serving native gRPC from a
