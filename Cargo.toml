@@ -14,7 +14,7 @@ path = "src/bin/grpc-hello-client.rs"
 
 [dependencies]
 hyper-util = { version = "=0.1.20", features = ["tokio"] }
-prost = "=0.13.5"
+prost = "=0.14.4"
 tokio = { version = "=1.47.1", features = ["macros", "net", "rt-multi-thread"] }
 tonic = { version = "=0.12.3", features = ["tls-webpki-roots"] }
 tower = { version = "=0.4.13", features = ["util"] }
